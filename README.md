@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shankar-rocky
+- 👋 Hi, I’m @ShankarSwarup
 - 👀 I’m interested in Web Development and Competetive Programming
 - 🌱 I’m currently learning Data structures
 - 💞️ I’m looking to collaborate on any body
