@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShankarSwarup
-- 👀 I’m interested in Web Development and Competetive Programming
+- 👀 I’m interested in Web Development and Competitive Programming
 - 🌱 I’m currently learning Data structures
-- 💞️ I’m looking to collaborate on any body
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me shankargummala58@gmail.com
 
 <!---
