@@ -1,4 +1,7 @@
 ### Hello People!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="22px"> 
+
+## I'm a Student, Developer, and Competitive Programmer!!
+
 This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Science department at Vignan's Institute of Information Technology. 
 
 - 👀 I’m interested in Web Development and Competitive Programming
