@@ -10,7 +10,7 @@ This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Scie
 [![Linkedin Badge](https://img.shields.io/badge/-ShankarSwarup-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gummala-jyothi-shankar-swarup-b600ba1aa/)](https://www.linkedin.com/in/gummala-jyothi-shankar-swarup-b600ba1aa/)
 [![Twitter Badge](https://img.shields.io/badge/-@ShankarSwarup-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ShankarSwarup58)](https://twitter.com/ShankarSwarup58)
 
-###Languages
+### Languages:
 
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
