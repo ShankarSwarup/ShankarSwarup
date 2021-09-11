@@ -17,21 +17,24 @@ This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Scie
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" /></p>
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
+
+<br/>
+<br/>
 
 <!---
 shankar-rocky/shankar-rocky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShankarSwarup&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="ShankarSwarup" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShankarSwarup&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="ShankarSwarup" />
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ShankarSwarup&show_icons=true&theme=dark&locale=en" alt="ShankarSwarup" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ShankarSwarup&show_icons=true&theme=dark&locale=en" alt="ShankarSwarup" align="left"/>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarSwarup&theme=dark" alt="ShankarSwarup" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarSwarup&theme=dark" alt="ShankarSwarup" align="left"/>
