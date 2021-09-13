@@ -17,6 +17,7 @@ This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Scie
 <a href="https://www.hackerrank.com/ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShankaSwarup" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ShankarSwarup" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shankarswarup/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shankarswarup" height="30" width="40" /></a>
+<a href="https://twitter.com/ShankarSwarup58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShankarSwarup58" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
