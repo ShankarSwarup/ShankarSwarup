@@ -10,10 +10,14 @@ This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Scie
 - 📫 How to reach me **shankargummala58@gmail.com**
         
 <h3 align="left">Connect with me:</h3>
-
-[![Github Badge](https://img.shields.io/badge/ShankarSwarup-blue?style=social&logo=Github&link=https://github.com/ShankarSwarup)](https://github.com/ShankarSwarup)
-[![Linkedin Badge](https://img.shields.io/badge/-ShankarSwarup-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gummala-jyothi-shankar-swarup-b600ba1aa/)](https://www.linkedin.com/in/gummala-jyothi-shankar-swarup-b600ba1aa/)
-[![Twitter Badge](https://img.shields.io/badge/-@ShankarSwarup-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/ShankarSwarup58)](https://twitter.com/ShankarSwarup58)
+<p align="left">
+<a href="https://www.linkedin.com/in/gummala-jyothi-shankar-swarup-b600ba1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gummala jyothi shankar swarup" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shankarrocky143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shankarrocky143" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shankarg123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shankarg123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShankaSwarup" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ShankarSwarup" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shankarswarup/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shankarswarup" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -33,8 +37,9 @@ shankar-rocky/shankar-rocky is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShankarSwarup&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="ShankarSwarup" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShankarSwarup&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="ShankarSwarup" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShankarSwarup&show_icons=true&theme=dark&locale=en" alt="ShankarSwarup" align="left"/>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ShankarSwarup&show_icons=true&theme=dark&locale=en" alt="ShankaSwarup" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarSwarup&theme=dark" alt="ShankarSwarup" align="left"/>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarSwarup&theme=dark" alt="ShankarSwarup" /></p>
