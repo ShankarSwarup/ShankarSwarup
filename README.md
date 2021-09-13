@@ -8,7 +8,9 @@ This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Scie
 - 🌱 I’m currently learning Data structures and web development
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me **shankargummala58@gmail.com**
-        
+- 📄 Know about my experiences [on my resume](https://resume.io/r/kZTtc55iW)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gummala-jyothi-shankar-swarup-b600ba1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gummala jyothi shankar swarup" height="30" width="40" /></a>
