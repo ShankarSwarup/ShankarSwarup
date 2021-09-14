@@ -15,11 +15,11 @@ This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Scie
 <p align="left">
 <a href="https://www.linkedin.com/in/gummala-jyothi-shankar-swarup-b600ba1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gummala jyothi shankar swarup" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shankarrocky143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shankarrocky143" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shankarg123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shankarg123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShankaSwarup" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ShankarSwarup" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShankarSwarup" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shankarswarup/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shankarswarup" height="30" width="40" /></a>
 <a href="https://twitter.com/ShankarSwarup58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShankarSwarup58" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shankarg123" target="blank"><img align="center" src=" https://www.codechef.com/misc/fb-image-icon.png." alt="shankarg123" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ShankarSwarup" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
