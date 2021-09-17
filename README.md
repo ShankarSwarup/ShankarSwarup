@@ -43,6 +43,3 @@ You can click the Preview link to take a look at your changes.
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShankarSwarup&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="ShankarSwarup" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ShankarSwarup&show_icons=true&theme=dark&locale=en" alt="ShankaSwarup" /></p>
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarSwarup&theme=dark" alt="ShankarSwarup" /></p>
