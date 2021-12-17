@@ -13,7 +13,7 @@ This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Scie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gummala-jyothi-shankar-swarup-b600ba1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gummala jyothi shankar swarup" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shankar-swarup-gummala-b600ba1aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gummala jyothi shankar swarup" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shankarrocky143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shankarrocky143" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ShankarSwarup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ShankarSwarup" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shankarswarup/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shankarswarup" height="30" width="40" /></a>
