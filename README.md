@@ -1,4 +1,4 @@
-### Hello People!!
+### Hi there!!<img align="left" alt="" height="22px"  src="https://raw.githubusercontent.com/AsishRaju/AsishRaju/master/gifs/hi.gif" />
 
 This is **ShankarSwarup**.  I'm currently pursuing my BTech in the Computer Science department at Vignan's Institute of Information Technology.
 
