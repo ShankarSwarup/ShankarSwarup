@@ -48,6 +48,8 @@ You can click the Preview link to take a look at your changes.
 
 <p> <img src="https://komarev.com/ghpvc/?username=ShankarSwarup&label=Profile%20views&color=e89b17&style=flat" alt="ShankarSwarup" /> </p>
 
+[![Badge](https://cp-logo.vercel.app/codechef/shankarg123)](https://www.codechef.com/users/shankarg123)
+
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ShankarSwarup&show_icons=true&theme=dark&locale=en" alt="ShankaSwarup" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShankarSwarup&theme=dark" alt="ShankarSwarup" /></p>
