@@ -46,7 +46,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShankarSwarup&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="ShankarSwarup" /></p>
 
-<p> <img src="https://komarev.com/ghpvc/?username=ShankarSwarup&label=Profile%20views&color=e89b17&style=flat" alt="ShankarSwarup" /> </p>
 
 [![Badge](https://cp-logo.vercel.app/codechef/shankarg123)](https://www.codechef.com/users/shankarg123)
 
