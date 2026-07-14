@@ -162,6 +162,10 @@ Enterprise multi-tenant healthcare platform featuring:
 - Electronic Health Records
 - Analytics Dashboard
 
+🔗 Repository
+
+https://github.com/ShankarSwarup/RBAC_MEDICAL_WEBSITE
+
 ---
 
 ## 🎓 Student Results Management System
@@ -194,31 +198,11 @@ https://github.com/ShankarSwarup/StudentResults
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShankarSwarup&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShankarSwarup&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShankarSwarup&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
